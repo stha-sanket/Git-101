@@ -29,13 +29,13 @@ Git is a **version control system** that helps you:
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/stha-sanket/Git-101/
 ```
 
 2. Navigate into the folder:
 
 ```bash
-cd git-101 https://github.com/stha-sanket/Git-101/
+cd git-101
 ```
 
 3. Start exploring and making commits 🚀
